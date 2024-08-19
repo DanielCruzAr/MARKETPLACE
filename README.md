@@ -1,4 +1,4 @@
-### 1. Install Dependencies:
+### 1. Instalar Dependencias:
 `$ npm install`
 ### 2. Arranque de la Blockchain de desarrollo local
 `$ npx hardhat node`
